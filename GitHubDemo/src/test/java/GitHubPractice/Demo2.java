@@ -7,8 +7,8 @@ public class Demo2 {
 	@Test
 	public void DemoTest()
 	{
-		System.out.println("Kumar B H");
-		System.out.println("Kumar B H");
+		System.out.println("Kumar B H anil");
+		System.out.println("Kumar B H kuare");
 	}
 	
 }
