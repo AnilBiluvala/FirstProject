@@ -8,6 +8,7 @@ public class Demo2 {
 	public void DemoTest()
 	{
 		System.out.println("Kumar B H");
+		System.out.println("Kumar B H");
 	}
 	
 }
