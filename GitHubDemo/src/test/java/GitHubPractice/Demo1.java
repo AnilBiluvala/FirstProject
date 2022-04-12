@@ -8,7 +8,7 @@ public class Demo1 {
 	public void demoTest()
 	{
 		System.out.println("Anilkumar B H");
-		System.out.println("Kumar");
+		System.out.println("Anilkumar B H");
 	}
 
 }
