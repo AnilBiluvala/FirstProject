@@ -7,8 +7,10 @@ public class Demo1 {
 	@Test
 	public void demoTest()
 	{
-		System.out.println("Anilkumar B H");
-		System.out.println("Anilkumar B H");
+		String browser=System.getProperty("browser");
+		String url=System.getProperty("url");
+		System.out.println(browser);
+		System.out.println(url);
 	}
 
 }
